@@ -283,14 +283,6 @@
     {
       "width": 1600,
       "height": 1067,
-      "path": "./photos/Photography/DSC_0320.jpg",
-      "compressed_path": "./photos/Photography/DSC_0320.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Photography/DSC_0320.placeholder.jpg"
-    },
-    {
-      "width": 1600,
-      "height": 1067,
       "path": "./photos/Photography/DSC_0693.jpg",
       "compressed_path": "./photos/Photography/DSC_0693.min.jpg",
       "compressed": false,
@@ -463,6 +455,14 @@
       "compressed_path": "./photos/Photography/Copy of DSC_0672.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Photography/Copy of DSC_0672.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1067,
+      "path": "./photos/Photography/DSC_0320-2.jpg",
+      "compressed_path": "./photos/Photography/DSC_0320-2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Photography/DSC_0320-2.placeholder.jpg"
     }
   ]
 }
