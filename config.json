@@ -283,10 +283,26 @@
     {
       "width": 1600,
       "height": 1067,
+      "path": "./photos/Photography/DSC_0617 copy.jpg",
+      "compressed_path": "./photos/Photography/DSC_0617 copy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Photography/DSC_0617 copy.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1067,
       "path": "./photos/Photography/DSC_0693.jpg",
       "compressed_path": "./photos/Photography/DSC_0693.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Photography/DSC_0693.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1067,
+      "path": "./photos/Photography/DSC_0597 copy.jpg",
+      "compressed_path": "./photos/Photography/DSC_0597 copy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Photography/DSC_0597 copy.placeholder.jpg"
     },
     {
       "width": 2048,
@@ -431,6 +447,14 @@
       "compressed_path": "./photos/Photography/DSC_0602.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Photography/DSC_0602.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1067,
+      "path": "./photos/Photography/DSC_0663 copy.jpg",
+      "compressed_path": "./photos/Photography/DSC_0663 copy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Photography/DSC_0663 copy.placeholder.jpg"
     },
     {
       "width": 2048,
